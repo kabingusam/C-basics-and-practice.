@@ -17,5 +17,5 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-    printf("%s %d is %d.Peace out Amigos.",last, n ,n % 10); 
+   	printf("%s %d is %d.Peace out Amigos.",last, n ,n % 10); 
 }
