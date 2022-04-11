@@ -1,1 +1,1 @@
-Simple tasks and Practice codes for C Programming
+Simple regular task and practice codes for C Programming.
