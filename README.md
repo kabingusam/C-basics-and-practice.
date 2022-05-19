@@ -1,1 +1,0 @@
-Simple regular task and practice codes for C Programming.
