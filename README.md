@@ -5,7 +5,7 @@
 <br>
 
 
-<h1><p align="center">practice.</h1></p></font>
+<h1><p align="center">Practice.</h1></p></font = "verdana">
 
 
 Herein are just prectice codes.
