@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="download.jfif" width="400\"/>
+  <img src="images.jfif" width="400\"/>
 
 <br>
 
