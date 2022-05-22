@@ -8,4 +8,4 @@
 <h1><p align="center">Practice.</h1></p></font>
 
 
-Herein are just prectice codes.
+Herein are just practice codes.
